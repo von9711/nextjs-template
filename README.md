@@ -30,13 +30,13 @@ Ensure you have the following software installed on your machine:
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/von9711/cms-frontend.git
-    cd cms-frontend
-    ```
+   ```sh
+   git clone https://github.com/von9711/cms-frontend.git
+   cd cms-frontend
+   ```
 
 2. Install the dependencies:
 
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
