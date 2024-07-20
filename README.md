@@ -1,14 +1,13 @@
-# Social Media Content Management SaaS
+# Next.js Template Repository
 
-This project is a SaaS application designed to manage content across different social media platforms, allowing users to manage multiple accounts seamlessly. The application is built using Next.js, TypeScript, Redux for state management, and Material-UI for UI components.
+This repository serves as a generic template for building applications using Next.js, TypeScript, Redux, and Material-UI.
 
 ## Features
 
-- Manage multiple social media accounts.
-- Schedule and publish posts to various platforms.
-- Analytics and reporting on social media performance.
-- Collaborative tools for team management.
-- Customizable dashboards and workflows.
+- Built with Next.js for server-side rendering and static site generation.
+- TypeScript for type safety and improved developer experience.
+- Redux for predictable state management.
+- Material-UI for a comprehensive set of UI components.
 
 ## Technologies Used
 
